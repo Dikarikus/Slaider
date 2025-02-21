@@ -1,7 +1,13 @@
+body {
+  margin: 0;
+}
+
+
 main {
     display: flex;
     background-color: #131313 ;
     justify-content: center;
+    height: 100vh;
   }
 
   
